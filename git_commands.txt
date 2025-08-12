@@ -1,4 +1,9 @@
-git status
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Abhaykr2/github_for_devOps.git
+git push -u origin master
    4 dir
    5 print .\testing.py
    6 clear
