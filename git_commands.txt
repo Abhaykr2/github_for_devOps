@@ -1,0 +1,44 @@
+git status
+   4 dir
+   5 print .\testing.py
+   6 clear
+   7 git status
+   8 git add
+   9 git status
+  10 clear
+  11 git status
+  12 clear
+  13 git add .\testing.py
+  14 git status
+  15 git rm --cached .\testing.py
+  16 git status
+  17 git add .\testing.py
+  18 git status
+  19 git commit -m .\testing.py
+  20 git commit -m "added testing.py"
+  21 git commit
+  22 clear
+  23 git init
+  24 git config user.email "abhayrathg@gma...
+  25 git config user.name "Abhaykr2"
+  26 git commit -m "added testing files"      
+  27 git status
+  28 git commit -m "added testing files"      
+  29 git add .
+  30 git commit -m "testing files"
+  31 ls
+  32 clear
+  33 ls
+  34 git status
+  35 rm  .\testing.py
+  36 ls
+  37 clear
+  38 git status
+  39 git restore t
+  40 git restor testing.py
+  41 ls
+  42 clear
+  43 git status
+  44 git restore testing.py
+  45 clear
+  46 git status
