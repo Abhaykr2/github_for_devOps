@@ -47,3 +47,29 @@ git push -u origin master
   44 git restore testing.py
   45 clear
   46 git status
+   50 git status
+  51 git commit -m "added git command"        
+  52 git status
+  53 git commit -m "Git command"
+  54 git init
+  55 git status
+  56 git commit -m "github command"
+  57 git init
+  58 git add .\git_commands.txt
+  59 git commit -m "git command"
+  60 git status
+  61 clear
+  62 git remote add origin https://github.... 
+  63 git remote -v
+  64 clear
+  65 git push origin master
+  66 git remote -v
+  67 git remote set-url origin https://ghp...
+  68 git remote set-url origin https://ghp... 
+  69 clear
+  70 git remote -v
+  71 git push origin master
+  72 ls
+  73 clear
+  74 ls
+  75 clear
